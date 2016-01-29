@@ -1,0 +1,102 @@
+<?xml version="1.0"?>
+<map width="20" height="20" type="new" mapnumber="0">
+		<cell x="1" y="1">
+			<block type="ladrillo"></block>
+		</cell>
+		<cell x="1" y="2">
+			<block type="ladrillo"></block>
+		</cell>
+		<cell x="1" y="3">
+			<block type="ladrillo"></block>
+		</cell>
+		<cell x="1" y="4">
+			<block type="ladrillo"></block>
+		</cell>
+		<cell x="1" y="5">
+			<block type="ladrillo"></block>
+		</cell>
+		<cell x="2" y="1">
+			<block type="ladrillo"></block>
+		</cell>	
+		<cell x="2" y="3">
+			<block type="ladrillo"></block>
+		</cell>	
+		<cell x="2" y="5">
+			<block type="ladrillo"></block>
+		</cell>
+		
+		<cell x="4" y="6">
+			<block type="cemento"></block>
+		</cell>
+		<cell x="4" y="7">
+			<block type="cemento"></block>
+		</cell>
+		<cell x="4" y="8">
+			<block type="cemento"></block>
+		</cell>
+		<cell x="5" y="8">
+			<block type="cemento"></block>
+		</cell>
+		<cell x="6" y="8">
+			<block type="cemento"></block>
+		</cell>
+		<cell x="6" y="7">
+			<block type="cemento"></block>
+		</cell>	
+		<cell x="6" y="6">
+			<block type="cemento"></block>
+		</cell>
+		
+		<cell x="8" y="9">
+			<block type="ladrillo"></block>
+		</cell>
+		<cell x="8" y="10">
+			<block type="ladrillo"></block>
+		</cell>
+		<cell x="8" y="11">
+			<block type="ladrillo"></block>
+		</cell>
+		<cell x="8" y="12">
+			<block type="ladrillo"></block>
+		</cell>
+		<cell x="9" y="9">
+			<block type="ladrillo"></block>
+		</cell>
+		<cell x="9" y="12">
+			<block type="ladrillo"></block>
+		</cell>	
+		<cell x="10" y="9">
+			<block type="ladrillo"></block>
+		</cell>
+		<cell x="10" y="11">
+			<block type="ladrillo"></block>
+		</cell>		
+		<cell x="10" y="12">
+			<block type="ladrillo"></block>
+		</cell>								
+
+		<cell x="13" y="13">
+			<block type="acero"></block>
+		</cell>
+		<cell x="13" y="14">
+			<block type="acero"></block>
+		</cell>
+		<cell x="13" y="15">
+			<block type="acero"></block>
+		</cell>
+		<cell x="13" y="16">
+			<block type="acero"></block>
+		</cell>
+		<cell x="13" y="17">
+			<block type="acero"></block>
+		</cell>
+		<cell x="14" y="13">
+			<block type="acero"></block>
+		</cell>	
+		<cell x="14" y="15">
+			<block type="acero"></block>
+		</cell>	
+		<cell x="14" y="17">
+			<block type="acero"></block>
+		</cell>
+</map>

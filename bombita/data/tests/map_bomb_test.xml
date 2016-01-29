@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<map width="7" height="7" type="new" mapnumber="0">
+		<cell x="3" y="0">
+			<block type="cemento"></block>
+		</cell>
+		<cell x="3" y="1">
+			<block type="cemento"></block>
+		</cell>
+		<cell x="3" y="5">
+			<block type="cemento"></block>
+		</cell>
+		<cell x="3" y="6">
+			<block type="cemento"></block>
+		</cell>
+		<cell x="0" y="3">
+			<block type="cemento"></block>
+		</cell>
+		<cell x="1" y="3">
+			<block type="cemento"></block>
+		</cell>
+		<cell x="5" y="3">
+			<block type="cemento"></block>
+		</cell>
+		<cell x="6" y="3">
+			<block type="cemento"></block>
+		</cell>
+</map>

@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<map width="2" height="1" type="new" mapnumber="0">
+		<cell x="0" y="0">
+			<block type="cemento"></block>
+		</cell>
+		<cell x="1" y="0">
+			<block type="cemento"></block>
+		</cell>
+</map>
